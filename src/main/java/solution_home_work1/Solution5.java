@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Solution5 {
 
+
     public static void checksForAPositiveOrNegativeNumber(int number){
 
         if (number >= 0)

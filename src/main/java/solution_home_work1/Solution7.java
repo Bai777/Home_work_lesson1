@@ -13,5 +13,6 @@ public class Solution7 {
         System.out.println("Введите имя: ");
         String inputName = in.nextLine();
         name(inputName);
+
     }
 }

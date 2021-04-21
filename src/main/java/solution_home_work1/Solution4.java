@@ -21,6 +21,7 @@ public class Solution4 {
         System.out.print("Введите второе число число: ");
         int secondNum = in.nextInt();
 
+
         System.out.println(sumNumbers(firstNum, secondNum));
     }
 }

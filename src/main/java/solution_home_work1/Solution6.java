@@ -17,5 +17,6 @@ public class Solution6 {
         System.out.print("Введите целое число: ");
         int num = in.nextInt();
         System.out.println(checksForAPositiveOrNegativeNumber(num));
+
     }
 }

@@ -13,7 +13,6 @@ public class Solution_1_2_3 {
     double valDouble = 45.38;
     char valChar = 'f';
 
-
     private static float isLong = 34.54F;
     private static   float height = 2.8F;
     private static float width = 50.2F;

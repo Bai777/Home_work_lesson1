@@ -14,5 +14,6 @@ public class Solution8 {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите год для проверки: ");
         leapYearOrNot(in.nextInt());
+
     }
 }
